@@ -8,7 +8,7 @@ Features:
 # Responsive Design
 # Autoplay functionality
 # Smooth transitions
-# Supports multiple matCardImageSmall
+# Previous and Next Buttons for Images
 
 Technologies Used:
 # HTML
